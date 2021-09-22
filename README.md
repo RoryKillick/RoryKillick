@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, welcome to my GitHub page 👋
+
+My name is Rory Killick, I'm a Web Developer currently working on my portfolio website.
+
+You can reach me at rorykillick@gmail.com or https://www.linkedin.com/in/rorykillick/.
 
 <!--
 **RoryKillick/RoryKillick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
