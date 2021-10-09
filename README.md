@@ -4,6 +4,7 @@ My name is Rory Killick, I'm a Web Developer currently working on my portfolio w
 
 You can reach me at rorykillick@gmail.com or https://www.linkedin.com/in/rorykillick/.
 
+<a href="https://app.daily.dev/RoryKillick"><img src="https://api.daily.dev/devcards/026f90dcbf9b48c69397195bc65c60da.png?r=qci" width="400" alt="Rory Killick's Dev Card"/></a>
 <!--
 **RoryKillick/RoryKillick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
