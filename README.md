@@ -6,9 +6,14 @@ You can reach me at rorykillick@gmail.com or https://www.linkedin.com/in/rorykil
 
 
 
-<div style="text-align: right">
-  <a href="https://app.daily.dev/RoryKillick"><img src="https://api.daily.dev/devcards/026f90dcbf9b48c69397195bc65c60da.png?r=qci" width="400" alt="Rory Killick's Dev Card"/></a>
-</div>
+
+
+
+
+
+
+<a href="https://app.daily.dev/RoryKillick"><img src="https://api.daily.dev/devcards/026f90dcbf9b48c69397195bc65c60da.png?r=qci" width="400" alt="Rory Killick's Dev Card"/></a>
+
 
 
 <!--
