@@ -1,6 +1,6 @@
 ### Hi there, welcome to my GitHub page 👋
 
-My name is Rory Killick, web developper.
+My name is Rory Killick, I'm a web developper.
 
 You can reach me at rorykillick@gmail.com or https://www.linkedin.com/in/rorykillick/.
 
